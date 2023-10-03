@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=dotnet&logoColor=#512BD4"/></a>
+<img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=black">
 
 <!--
 **SyunChann/SyunChann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
