@@ -7,8 +7,3 @@ Hi, i'm Chan 👋<br>
 <br>
 ### 💡 Tools
 <img src="https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=black"> <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=black"> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=black"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=black">
-
-![SyunChann's github stats](https://github-readme-stats.vercel.app/api?username=SyunChann&show_icons=true)
-
-
-
