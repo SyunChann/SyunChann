@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <!--
 **SyunChann/SyunChann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
