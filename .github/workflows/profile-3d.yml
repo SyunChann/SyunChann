@@ -20,5 +20,5 @@ jobs:
           git config user.name SyunChann
           git config user.email SyunChann@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || exit 0
           git push
